@@ -61,7 +61,7 @@ table {
 }
 
 .header_background{
-	background-image: url(/images/bgb.png);
+	background-image: url(./images/bgb.png);
 	width:1001px;
 	height: 418px;
 	position:relative;
@@ -123,7 +123,7 @@ table {
 .header h1{
 	width:170px;
 	height:36px;
-	background-image: url(/images/logo.png);
+	background-image: url(./images/logo.png);
 	text-indent: 101%;
 	overflow: hidden;
 	white-space: nowrap;
@@ -252,7 +252,7 @@ th{
 }
 
 .form{
-	background-image: url(/images/back1.png);
+	background-image: url(./images/back1.png);
 	width:999px;
 	height:405px;	
 }
